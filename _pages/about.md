@@ -31,3 +31,17 @@ Publications
 			<br/>
 	</li>
 </ul>
+
+Blogs
+============
+<ul>
+	<li><a href="https://www.thezdi.com/blog/2019/8/15/taking-control-of-vmware-through-the-universal-host-control-interface-part-2"><b>TAKING CONTROL OF VMWARE THROUGH THE UNIVERSAL HOST CONTROL INTERFACE</b></a>
+			<br/>
+	</li>
+</ul>
+
+<ul>
+	<li><a href="https://www.thezdi.com/blog/2019/8/15/taking-control-of-vmware-through-the-universal-host-control-interface-part-2"><b>TAKING CONTROL OF VMWARE THROUGH THE UNIVERSAL HOST CONTROL INTERFACE</b></a>
+			<br/>
+	</li>
+</ul>
