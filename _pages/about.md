@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-blahBlah! Blah Again!
+I am a Ph.D. student of the Computer Science department at Purdue University, I work under the supervision of Prof. Dongyan Xu and Prof. Berkay Celik. My research interests lie in the broad area of system security with a current focus on audit logging, forensic analysis, data provenance, and cyber-physical systems (industrial control systems). I specifically focus on designing and building innovative security frameworks through applying causality analysis, machine learning, natural language processing and program analysis techniques.
 
 A data-driven personal website
 ======
