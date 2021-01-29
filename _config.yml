@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Abdulellah Alsaheel"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student @ Purdue University"
   location         : "Indianapolis, IN, United States"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iDsIvSkAAAAJ&hl=en"
   email            : "aalsahee@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
