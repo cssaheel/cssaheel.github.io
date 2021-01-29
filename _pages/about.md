@@ -35,13 +35,26 @@ Publications
 Blogs
 ============
 <ul>
+	<li><a href="http://reveralabs.blogspot.com/2020/12/ghidra-and-lost-gems-finding-miss.html">Ghidra and The Lost Gems (Fixing Misidentified Code)</a>
+			<br/>
+	</li>
+</ul>
+
+<ul>
 	<li><a href="https://www.thezdi.com/blog/2019/8/15/taking-control-of-vmware-through-the-universal-host-control-interface-part-2">Taking Control of Vmware Through The Universal Host Control Interface</a>
 			<br/>
 	</li>
 </ul>
 
 <ul>
-	<li><a href="https://www.thezdi.com/blog/2019/8/15/taking-control-of-vmware-through-the-universal-host-control-interface-part-2"><b>TAKING CONTROL OF VMWARE THROUGH THE UNIVERSAL HOST CONTROL INTERFACE</b></a>
+	<li><a href="http://reveralabs.blogspot.com/2017/07/null-dereference-vulnerability-in-ida.html">Null dereference vulnerability in IDA Freeware</a>
 			<br/>
 	</li>
 </ul>
+
+<ul>
+	<li><a href="http://reveralabs.blogspot.com/2016/11/using-mbae-to-disable-mbae-and.html">Using MBAE To Disable MBAE, and Subverting ASLR/DEP</a>
+			<br/>
+	</li>
+</ul>
+
